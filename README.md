@@ -1,4 +1,4 @@
-![Image of a tree of the XGBoost model](https://github.com/tlemenestrel/France_Real_Estate_Prices_Prediction/blob/master/Images/drawing.jpg)
+![Image of a tree of the XGBoost model](https://github.com/tlemenestrel/Mining_Food_Supply_Chain_Data/blob/master/Images/Scraper.jpg)
 
 # Predicting real estate prices in France using XGBoost 
 
