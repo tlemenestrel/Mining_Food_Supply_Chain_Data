@@ -1,6 +1,6 @@
 ![Image of a tree of the XGBoost model](https://github.com/tlemenestrel/Mining_Food_Supply_Chain_Data/blob/master/Images/Scraper.jpg)
 
-# Mining 1M+ supermarkets postcodes using a multi-threaded web scraper
+# Mining 1M+ supermarkets postcodes using a web scraper
 
 This project is a multi-threaded web scraper to scrape more than 1M food supply chain data points from [openhours.co.uk](https://openhours.co.uk)
 
