@@ -14,13 +14,10 @@ After this, you should be able to run the project using Jupyter Notebook.
 
 * [Jupyter Notebook](https://jupyter.org/install)
 * [pandas](https://pandas.pydata.org/pandas-docs/stable/getting_started/install.html)
-* [Requests](https://matplotlib.org/users/installing.html)
-* [BeautifulSoup](https://scikit-learn.org/stable/install.html)
-* [urllib.request](https://xgboost.readthedocs.io/en/latest/build.html)
-* [multiprocessing](https://pypi.org/project/graphviz/)
-* [warnings](https://pypi.org/project/graphviz/)
-* [time](https://pypi.org/project/graphviz/)
-* [itertools](https://pypi.org/project/graphviz/)
+* [Requests](https://pypi.org/project/requests/)
+* [BeautifulSoup](https://pypi.org/project/beautifulsoup4/)
+* [urllib](https://pypi.org/project/urllib3/)
+* [multiprocessing](https://pypi.org/project/multiprocessing/)
 
 ## Author
 
